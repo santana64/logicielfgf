@@ -28,7 +28,7 @@ Cloner le dépôt :
 
 Copier le code : 
 
-git clone https://github.com/votre-utilisateur/gestion-des-couts-de-projet.git
+https://github.com/santana64/logicielfgf
 cd gestion-des-couts-de-projet
 
 Créer et activer un environnement virtuel :
