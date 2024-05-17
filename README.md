@@ -26,23 +26,28 @@ Chargement des Données : Charge les projets et les éléments de coût à parti
 Cloner le dépôt :
 
 
-Copier le code : 
+
 
 https://github.com/santana64/logicielfgf
+
 cd gestion-des-couts-de-projet
 
 Créer et activer un environnement virtuel :
 
 
 Copier le code : 
+
 python -m venv venv
 source venv/bin/activate  # Sur Windows, utilisez `venv\Scripts\activate`
+
 Installer les dépendances :
 
 
 Copier le code : 
+
 pip install pandas openpyxl
-Utilisation
+
+# Utilisation
 Exécuter l'application :
 
 
@@ -51,6 +56,7 @@ Ajouter un projet :
 
 Entrez le nom du projet et sa description dans les champs correspondants.
 Cliquez sur "Ajouter Projet" pour ajouter le projet à la liste.
+
 Ajouter un élément de coût :
 
 Sélectionnez un projet dans la liste des projets.
